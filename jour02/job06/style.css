@@ -1,5 +1,20 @@
-body{
-  min-height: 4096px;
+#ar1{
+	background-color: yellow;
+}
+
+#ar2{
+	background-color: blue;
+	color:yellow;
+}
+
+#ar3{
+	background-color: blue;
+	color:yellow;
+}
+
+#img1{
+	width: 125px;
+	height: 125px;
 }
 
 
