@@ -46,6 +46,7 @@ if (win)
         var p = document.createElement('p');
         var newelement = document.createTextNode("Vous avez gagné");
         p.setAttribute("id", "win");
+        // ar
         document.body.appendChild(p);
         p.appendChild(newelement);
     }
