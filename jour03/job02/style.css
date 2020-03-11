@@ -1,11 +1,20 @@
 #melanger{
-	background-color: red;
-	display: flex;
+	
+	
 }
 
 
 #ranger{
 
-	background-color: blue;
-	margin-top: 250px;
+}
+
+
+#win{
+	color: green;
+	font-size: 50px;
+}
+
+#perdu{
+	color:red;
+	font-size: 50px;
 }
