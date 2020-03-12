@@ -8,9 +8,8 @@
 <body>
 
 
-<p id="res"></p>
 
-<button id="bouton" onclick="jsonValueKey()">Cache</button>
+<button id="bouton" onclick="jsonValueKey(creation1, 'city')">Cache</button>
 
 
 </body>
